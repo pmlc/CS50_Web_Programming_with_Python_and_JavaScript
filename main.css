@@ -1,7 +1,7 @@
 .navbar{
   list-style-type: none;
   display: flex;
-  
+  flex-display: right;
 }
 
 h1 {
