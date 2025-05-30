@@ -2,7 +2,7 @@
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  justify-control: right;
+  justify-control: flex-right;
 }
 
 h1 {
