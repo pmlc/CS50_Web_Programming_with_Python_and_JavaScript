@@ -2,10 +2,10 @@
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  justify-control: flex-end;
 }
 
 h1 {
 font-size: 33px;
-color: green;
+color: purple;
 }
