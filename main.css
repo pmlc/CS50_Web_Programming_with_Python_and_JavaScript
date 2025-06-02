@@ -1,9 +1,4 @@
 
-h1{
-font-size: 43px;
-color: green;
-}
-
 .navbar-google{
   list-style-type: none;
   display: flex;
@@ -13,7 +8,7 @@ color: green;
 
 .navbar-item-google{
   margin: 10px; 
-  c0lor: red;
+  color: red;
 }
 
 
