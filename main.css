@@ -15,16 +15,21 @@ h1 {
 }
 
 a:link {
-  color: red;
+  color: blue; /* Style for unvisited links */
+  text-decoration: none;
 }
+
 a:visited {
-  color: green;
+  color: purple; /* Style for visited links */
+  text-decoration: none;
 }
+
 a:hover {
-  color: hot-pink;
+  color: red; /* Style for links when hovered over */
 }
+
 a:active {
-  color: blue;
+  color: green; /* Style for links when clicked */
 }
 
 
