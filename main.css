@@ -25,7 +25,7 @@ a:visited {
 }
 
 a:hover {
-  color: red; /* Style for links when hovered over */
+  color: pink; /* Style for links when hovered over */
 }
 
 a:active {
