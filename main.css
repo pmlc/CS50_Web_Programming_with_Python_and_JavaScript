@@ -2,14 +2,14 @@ h1 {
   color: red;
 }
 
-.navbar-google{
+.navbar-google {
   list-style-type: none;
   display: flex;
   flex-direction: row;
   justify-content: right;
 }
 
-.navbar-item-google{
+.navbar-item-google {
   margin: 10px;
   color: black;
 }
@@ -20,7 +20,7 @@ a:link {
 a:visited {
   color: green;
 }
-a:hover{
+a:hover {
   color: hot-pink;
 }
 a:active {
