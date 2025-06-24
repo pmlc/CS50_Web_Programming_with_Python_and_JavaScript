@@ -2,6 +2,10 @@ h1 {
   color: red;
 }
 
+.centre-div {
+
+}
+
 .navbar-google {
   list-style-type: none;
   display: flex;
